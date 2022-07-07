@@ -24,7 +24,7 @@ function Mymenu() {
                 <div className='space'>-</div>
                 {userData.settings.language==="PL" ? <><div className='hide'>{word[0]}<div className='mask' onClick={showMe}>{word[0]}</div></div> 
                 <span className="material-symbols-outlined trash" onClick={()=>deleteForever(index)}>delete_forever</span></> :
-                 <><div className='hide'>{word[1]}<div className='mask'>{word[1]}</div></div>
+                 <><div className='hide'>{word[1]}<div className='mask' onClick={showMe}>{word[1]}</div></div>
                  <span class="material-symbols-outlined trash" onClick={()=>deleteForever(index)}>delete_forever</span></>}
             </div>
         )
