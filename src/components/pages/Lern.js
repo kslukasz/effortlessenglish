@@ -34,7 +34,11 @@ function Lern() {
     }
 
     const checkClass = (index) => {
-        if (answerVariable[index] === "correct") {
+        if (answerVariable[index] === "correct" && userData.settings.darkmode) {
+            return "correct darkmode"
+        } else if (answerVariable[index] === "incorrect" && userData.settings.darkmode) {
+            return "incorrect darkmode"
+        } else if (answerVariable[index] === "correct") {
             return "correct"
         } else if (answerVariable[index] === "incorrect") {
             return "incorrect"
@@ -47,7 +51,8 @@ function Lern() {
             const copyUserData = JSON.parse(JSON.stringify(userData));
             copyUserData.words.push(randomData.dataToLern[randomData.wordIndex]);
             setUserData(copyUserData);
-        } else if (checkedAnswer) {
+            // if (checkedAnswer)
+        } else  {
             setUserData(addToRepeat(randomData, userData));
             nextWordRandoming();
         }
@@ -83,7 +88,7 @@ function Lern() {
                 </>
             )
         } else {
-            let link;            
+            let link;
             if (userData.settings.language === "PL") {
                 link = (
                     <a href={`https://translate.google.com/?hl=pl&sl=pl&tl=en&text=${randomData[userData.settings.language]}`} target="blank">

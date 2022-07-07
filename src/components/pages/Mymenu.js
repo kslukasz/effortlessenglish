@@ -7,8 +7,9 @@ function Mymenu() {
 
     const deleteForever = (index) =>{
         const copyUserData = JSON.parse(JSON.stringify(userData));
-        const arrayElement = copyUserData.repeat.splice(index,1);      
-        copyUserData.words.push.apply(copyUserData.words,arrayElement)
+        copyUserData.repeat.splice(index,1);      
+        // const arrayElement = 
+        // copyUserData.words.push.apply(copyUserData.words,arrayElement)
         setUserData(copyUserData);
 
     }
