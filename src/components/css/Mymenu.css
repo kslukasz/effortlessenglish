@@ -1,0 +1,41 @@
+.repeat{
+    box-sizing: border-box;
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 2px 20px ;
+    margin:5px 10px 2px;     
+    white-space: nowrap;
+}
+.space{
+    text-align: center;
+    width: 50px;
+}
+.hide{
+    position: relative;
+    padding: 1px 0;
+}
+.mask{
+    position: absolute;
+    top:0;
+    left:0;
+    background-color: black;
+    border-radius: 2px;
+}
+.mask:hover{
+    cursor: pointer;
+}
+.mask:hover:after{
+    position: absolute;
+    top:0;   
+    left:5px;
+    content: "Klik";
+    color: white;    
+}
+.trash:hover{
+    cursor: pointer;  
+    color:red;  
+}
+.trash{
+    margin-left: 20px;
+}

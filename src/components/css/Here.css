@@ -1,0 +1,17 @@
+.here{
+    box-sizing: border-box;
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 2px 20px ;
+    margin:5px 10px 2px;
+    display: flex;
+    align-items: center;  
+    white-space: nowrap; 
+    height: 42px;
+}  
+a .here:hover{
+    color:rgba(0, 132, 193, 0.818);
+    text-shadow: 0 0 5px rgba(0, 132, 193, 0.57);
+    text-decoration: underline;
+}

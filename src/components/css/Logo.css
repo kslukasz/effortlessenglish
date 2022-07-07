@@ -1,0 +1,28 @@
+.logo{
+    position: relative;    
+    font-family: 'Julee';
+    text-transform: uppercase;
+    font-size: 40px;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.752);
+    margin-right: 100px;   
+}
+.first_element{    
+    transform: rotate(-5deg);
+    background: linear-gradient(to right, rgb(11, 45, 166), rgb(181, 32, 158));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.second_element{
+    background: linear-gradient(to left, rgb(11, 45, 166), rgb(181, 32, 158));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    position: absolute;
+    transform: rotate(3deg);
+    top:20px;
+    left:105px;
+}
+a{
+    text-decoration: none; 
+}

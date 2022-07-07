@@ -1,0 +1,112 @@
+.logo_mobile{
+    position: relative;    
+    font-family: 'Julee';
+    text-transform: uppercase;
+    font-size: 40px;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.752);
+    margin-right: 50px;   
+}
+.first_element_mobile{    
+    transform: rotate(-5deg);
+    background: linear-gradient(to right, rgb(11, 45, 166), rgb(181, 32, 158));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.second_element_mobile{
+    background: linear-gradient(to left, rgb(11, 45, 166), rgb(181, 32, 158));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    position: absolute;
+    transform: rotate(3deg);
+    top:20px;
+    left:105px;
+}
+a{
+    text-decoration: none; 
+}
+.menu{    
+    position: relative;
+    width: 40px;
+    height: 40px;    
+    margin:6px 50px 0 10px
+}
+.menu1{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 44px;
+    height: 4px;
+    background-color:rgb(125, 125, 125);
+    transition-duration: 0.5s;
+    transform-origin: 0px 2px;
+}
+.menu2{
+    position: absolute;
+    top:32px;
+    left:0;
+    width: 44px;
+    height: 4px;
+    background-color:rgb(125, 125, 125);
+    transition-duration: 0.5s;
+    transform-origin: 0px 2px;
+}
+.menu3{
+    position: absolute;
+    top:16px;
+    left:0;
+    width: 44px;
+    height: 4px;
+    background-color:rgb(125, 125, 125);
+    transition-duration: 0.5s;
+    transform-origin: 0px 2px;
+}
+.menu1[class~="checked"]{    
+    transform: rotate(45deg);
+}
+.menu2[class~="checked"]{    
+    transform: rotate(-45deg);
+}
+.menu3[class~="checked"]{
+    opacity: 0;
+}
+
+
+
+
+
+
+/* .menu::before{
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 4px;
+    background-color:rgb(202, 202, 202);
+    top:12px;
+    left:0;
+}
+.menu::after{
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 4px;
+    background-color:rgb(202, 202, 202);
+    top:24px;
+    left:0;
+}
+.cont_menu:hover{
+    cursor: pointer;        
+}
+.cont_menu:hover .menu{
+    background-color: rgb(125, 125, 125)
+}
+.cont_menu:hover .menu::after{
+    background-color: rgb(125, 125, 125)
+}
+.cont_menu:hover .menu::before{
+    background-color: rgb(125, 125, 125)
+}
+.checked .menu{
+    transform-origin: (0px 0px);
+    /* transform:rotate(45deg); */

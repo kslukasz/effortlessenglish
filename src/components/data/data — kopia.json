@@ -1,0 +1,314 @@
+{
+	"words1": {
+		"name": "3000 słów część 1",
+		"moduls": [{
+			"id": 1,
+			"title": "Moduł 1",
+			"content": ["teaspoon?łyżeczka", "joint?wspólny", "favorite?ulubiony", "prisoner?więzień", "method?metoda", "investment?inwestycja", "contribution?składka", "advance?osiągnięcie", "smile?uśmiech", "seat?siedzenie", "ordinary?zwykły", "mouse?mysz", "aggressive?agresywny", "five?pięć", "okay?w porządku", "odds?szanse", "shadow?cień", "sleep?spać", "assistance?wsparcie", "kiss?pocałunek", "brain?mózg", "regardless?bez względu", "chair?krzesło", "chairman?przewodniczący", "produce?produkować", "gender?płeć", "sister?siostra", "sky?niebo", "furthermore?ponadto", "build?budować", "most?bardzo", "violate?naruszać", "goal?bramka", "destruction?zniszczenie", "period?kropka", "nation?naród", "European?europejski", "turn?skręcać", "rock?głaz", "deer?jeleń"]
+		}, {
+			"id": 2,
+			"title": "Moduł 2",
+			"content": ["boy?chłopak", "resident?mieszkaniec", "determine?określać", "me?ja", "write?pisać", "fly?latać", "fan?miłośnik", "fund?fundusz", "chart?wykres", "chemical?chemiczny", "original?oryginał", "diet?dieta", "chance?szansa", "remain?pozostać", "alive?żywy", "funding?finansowanie", "amount?ilość", "hat?kapelusz", "art?sztuka", "operation?operacja", "virtually?wirtualnie", "pleasure?przyjemność", "nowhere?nigdzie", "detect?wykryć", "defend?bronić", "access?dostęp", "drive?prowadzić", "meat?mięso", "human?człowiek", "value?wartość", "stretch?rozciągać się", "metal?metal", "myth?mit", "ratio?stosunek", "tube?rura", "bite?ugryzienie", "accomplish?ukończyć", "represent?przedstawiać", "slight?niewielki", "beautiful?piękny"]
+		}, {
+			"id": 3,
+			"title": "Moduł 3",
+			"content": ["founder?założyciel", "lesson?lekcja", "single?pojedynczy", "furniture?meble", "ideal?ideał", "hundred?sto", "against?przeciwko", "innocent?niewinny", "brief?krótki", "law?prawo", "elementary?podstawowy", "agenda?porządek obrad", "grandmother?babcia", "analyst?analityk", "Japanese?język japoński", "spiritual?duchowy", "extension?rozbudowa", "justice?sprawiedliwość", "himself?samego siebie", "roughly?mniej więcej", "assault?napaść", "specialist?specjalista", "crucial?kluczowy", "necessarily?koniecznie", "light?światło", "wooden?z drewna", "spending?wydatki", "remember?zapamiętaj", "shop?sklep", "step?krok", "tale?opowieść", "party?przyjęcie", "team?zespół", "measurement?pomiar", "gay?wesoły", "principle?zasada", "store?sklep", "super?super", "offense?wykroczenie", "travel?podróż"]
+		}, {
+			"id": 4,
+			"title": "Moduł 4",
+			"content": ["quarter?kwartał", "blind?ślepy", "gate?brama", "reply?odpowiadać", "vote?głosować", "corporation?korporacja", "towards?w stronę", "red?czerwony", "air?powietrze", "last?ostatni", "flat?mieszkanie", "crack?pękać", "impact?uderzenie", "long-term?długoterminowy", "apply?stosować", "century?wiek", "kick?kopnięcie", "middle?środek", "grab?chwycić", "test?test", "criminal?kryminalista", "ancient?starożytny", "exhibition?wystawa", "testify?świadczyć", "arrival?przyjazd", "symptom?objaw", "language?język", "differently?różnie", "finger?palec", "fit?pasować", "sad?smutny", "quit?zrezygnować ", "solution?rozwiązanie", "enter?wejść", "counter?licznik", "animal?zwierzę", "south?południe", "custom?zwyczaj", "radio?radio", "react?reagować"]
+		}, {
+			"id": 5,
+			"title": "Moduł 5",
+			"content": ["initial?inicjał", "appropriate?właściwy", "decline?spadek", "hill?wzgórze", "imply?sugerować", "winner?zwycięzca", "mostly?przeważnie", "Christian?chrześcijanin", "quarterback?rozgrywający", "cookie?ciastko", "stroke?uderzenie", "inflation?inflacja", "course?kurs", "precisely?dokładnie", "appear?pojawić się", "army?armia", "dad?tata", "threaten?zagrozić", "new?nowy", "entertainment?zabawa", "shell?powłoka", "need?potrzebować", "cash?gotówka", "second?druga", "bathroom?łazienka", "widely?szeroko", "consultant?konsultant", "check?sprawdzać", "pound?funt", "interpret?interpretować", "kitchen?kuchnia", "university?uniwersytet", "taxpayer?podatnik", "overall?ogólnie", "certain?pewny", "twin?bliźniak", "walk?spcerować", "however?jednakże", "colonial?kolonialny", "athlete?sportowiec"]
+		}, {
+			"id": 6,
+			"title": "Moduł 6",
+			"content": ["God?bóg", "buck?bryknięcie", "quietly?cicho", "connect?łączyć", "committee?komisja", "investigator?badacz", "moderate?umiarkowany", "inform?poinformować", "many?wiele", "native?rodzinny", "health?zdrowie", "council?rada", "client?klient", "divorce?rozwód", "survey?ankieta", "wage?płaca", "sit?siedzieć", "flag?flaga", "psychological?psychologiczny", "column?kolumna", "each?każdy", "environment?środowisko", "controversial?kontrowersyjny", "seek?szukać", "recruit?rekrut", "screen?ekran", "assistant?asystent", "recipe?przepis", "get?dostawać", "literary?literacki", "poll?głosowanie", "politics?polityka", "section?sekcja", "such?taki", "insurance?ubezpieczenie", "corner?narożnik", "various?różnorodny", "requirement?wymóg", "authority?autorytet", "visitor?gość"]
+		}, {
+			"id": 7,
+			"title": "Moduł 7",
+			"content": ["organization?organizacja", "surprising?zaskakujący", "be?być", "cold?przeziębienie", "current?obecny", "model?model", "valuable?wartościowy", "popular?popularny", "force?zmuszać", "happy?szczęśliwy", "joy?radość", "lifestyle?styl życia", "serious?poważny", "minor?drobny", "honor?zaszczyt", "wet?mokro", "absence?brak", "procedure?procedura", "opposition?sprzeciw", "resource?ratunek", "depict?przedstawiać", "great?świetnie", "writer?pisarz", "gain?osiągać", "hey?siema", "legal?prawny", "dance?taniec", "angle?kąt", "why?czemu", "receive?odbierać", "fellow?kolega", "drug?lek", "examine?zbadać", "tap?uzyskiwać", "moon?księżyc", "expectation?oczekiwanie", "basketball?koszykówka", "report?raport", "chamber?izba", "abortion?poronienie"]
+		}, {
+			"id": 8,
+			"title": "Moduł 8",
+			"content": ["leaf?liść", "other?inny", "unit?jednostka", "point?punkt", "mouth?usta", "sequence?sekwencja", "grain?ziarno", "damage?szkoda", "worker?pracownik", "beginning?początek", "Muslim?muzułmański", "golden?złoty", "graduate?absolwent", "unique?unikalny", "eye?oko", "trade?handel", "muscle?mięsień", "anyway?w każdym razie", "yield?dawać", "product?produkt", "distinction?różnica", "laugh?śmiać się", "edition?wydanie", "of?z", "appeal?odwołanie", "majority?większość", "three?trzy", "thinking?myślący", "loose?luźny", "gentleman?pan", "percentage?odsetek", "major?poważny", "draw?remis", "clinic?klinika", "tomato?pomidor", "regime?reżim", "people?ludzie", "role?rola", "room?pokój", "device?urządzenie"]
+		}, {
+			"id": 9,
+			"title": "Moduł 9",
+			"content": ["considerable?znaczny", "agreement?umowa", "rest?reszta", "child?dziecko", "factor?czynnik", "discrimination?dyskryminacja", "virus?wirus", "review?recenzja", "incorporate?włączać", "double?podwójnie", "horror?przerażenie", "knife?nóż", "consistent?spójny", "healthy?zdrowy", "four?cztery", "hospital?szpital", "interest?odsetki", "earn?zarabiać", "professor?profesor", "kill?zabić", "earth?ziemia", "accident?wypadek", "scene?scena", "aside?na bok", "advertising?reklama", "cholesterol?cholesterol", "fine?cienki", "generation?pokolenie", "enemy?wróg", "profile?profil", "lawyer?prawnik", "feel?czuć", "threat?groźba", "unable?niezdolny", "due?należny", "cooperation?współpraca", "scream?krzyk", "establish?tworzyć", "pattern?wzorzec", "wrong?zło"]
+		}, {
+			"id": 10,
+			"title": "Moduł 10",
+			"content": ["conservative?konserwatywny", "coat?płaszcz", "propose?zaproponować", "transportation?transport", "beer?piwo", "funeral?pogrzeb", "district?dzielnica", "ring?dzwonić", "gas?gaz", "smooth?gładki", "potential?potencjał", "hell?piekło", "element?element", "relevant?istotnych", "seize?chwycić", "swear?przeklinać", "host?gospodarz", "makeup?makijaż", "money?pieniądze", "block?blok", "billion?miliard", "care?opieka", "intervention?interwencja", "building?budynek", "highlight?atrakcja", "help?wsparcie", "creative?twórczy", "the?ten", "sector?sektor", "historic?historyczny", "map?mapa", "lip?warga", "visit?wizyta", "give?dawać", "own?własny", "husband?mąż", "cabin?kabina", "six?sześć", "etc?itp", "pollution?zanieczyszczenie"]
+		}, {
+			"id": 11,
+			"title": "Moduł 11",
+			"content": ["straight?proste", "distribution?dystrybucja", "thought?myśl", "AIDS?aids", "ongoing?bieżący", "phenomenon?zjawisko", "battery?bateria", "oil?olej", "dish?danie", "disaster?katastrofa", "meaning?oznaczający", "right?prawo", "her?ją", "agricultural?rolniczy", "center?środek", "argue?kłócić się", "presidential?prezydencki", "third?trzeci", "soup?zupa", "local?lokalny", "wealthy?bogaty", "raise?podnieść", "conviction?przekonanie", "pressure?nacisk", "hire?wynajmować", "button?przycisk", "touch?dotykać", "enormous?ogromny", "environmental?środowiskowy", "wash?myć się", "self?samego siebie", "clothing?odzież", "oppose?sprzeciwiać się", "ask?zapytać się", "usually?zwykle", "brand?marka", "little?mały", "aide?adiutant", "teacher?nauczyciel", "main?główny"]
+		}, {
+			"id": 12,
+			"title": "Moduł 12",
+			"content": ["headquarters?siedziba", "big?duża", "slightly?nieznacznie", "come?chodź", "gap?luka", "dominant?dominujący", "crash?rozbić się", "arise?powstać", "meal?posiłek", "battle?bitwa", "perfect?idealny", "suspect?podejrzany", "expose?ujawnić", "portray?przedstawiać", "Senate?senat", "deserve?zasługiwać", "defeat?pokonać", "emotion?emocja", "match?mecz", "journalist?dziennikarz", "manage?zarządzać", "fee?opłata", "speed?prędkość", "fiber?błonnik", "developing?rozwój", "yesterday?wczoraj", "shoe?but", "ah?ach", "Internet?internet", "nevertheless?niemniej jednak", "United?zjednoczony", "auto?automatyczny", "certainly?z pewnością", "killer?zabójca", "forever?na zawsze", "urge?popęd", "sample?próbka", "era?era", "confidence?zaufanie", "movement?ruch"]
+		}, {
+			"id": 13,
+			"title": "Moduł 13",
+			"content": ["producer?producent", "embrace?uścisk", "copy?kopiuj", "almost?prawie", "limitation?ograniczenie", "stomach?żołądek", "capability?zdolność", "pretend?udawać", "income?dochód", "general?ogólny", "ultimate?ostateczny", "improvement?poprawa", "staff?personel", "mystery?tajemnica", "overlook?przeoczyć", "recently?ostatnio", "hotel?hotel", "difficulty?trudność", "entirely?całkowicie", "tire?opona", "sometimes?czasami", "form?formularz", "grant?dotacja", "theory?teoria", "night?noc", "nothing?nic", "closer?bliższy", "welcome?witam", "split?rozdzielać", "officer?oficer", "wound?rana", "assess?oceniać", "lay?kłaść", "office?gabinet", "foot?stopa", "retain?zachować", "jail?więzienie", "important?ważny", "legacy?dziedzictwo", "assist?wspierać"]
+		}, {
+			"id": 14,
+			"title": "Moduł 14",
+			"content": ["delivery?dostawa", "personally?osobiście", "guarantee?gwarancja", "dialogue?dialog", "risk?ryzyko", "extreme?skrajny", "core?rdzeń", "respondent?pozwany", "twelve?dwanaście", "totally?całkowicie", "contest?konkurs", "modern?nowoczesny", "terrible?straszny", "teenager?nastolatek", "rich?bogaty", "express?wyrazić", "amazing?zdumiewający", "admission?wstęp", "dirt?brud", "statistics?statystyka", "adviser?doradca", "career?kariera", "solve?rozwiązywać", "please?proszę", "civil?cywilny", "individual?indywidualny", "what?co", "girl?dziewczyna", "sight?widok", "final?finał", "bird?ptak", "become?stać się", "yeah?tak", "giant?ogromny", "design?projekt", "swim?pływać", "employer?pracodawca", "negotiation?negocjacja", "supply?dostarczać", "award?nagroda"]
+		}, {
+			"id": 15,
+			"title": "Moduł 15",
+			"content": ["edge?brzeg", "ease?łatwość", "shape?kształt", "constant?stały", "budget?budżet", "folk?ludowy", "count?liczyć", "illness?choroba", "engineering?inżynieria", "closely?dokładnie", "pair?para", "letter?list", "intention?zamiar", "must?musi", "negotiate?negocjować", "lake?jezioro", "extensive?rozległy", "disability?inwalidztwo", "handful?garść", "before?zanim", "text?tekst", "poor?słaby", "normal?normalna", "rapidly?szybko", "cable?kabel", "biological?biologiczny", "sensitive?wrażliwy", "cooking?gotowanie", "guide?przewodnik", "advise?radzić", "reflect?odzwierciedlić", "tall?wysoki", "estimate?oszacować", "weekly?co tydzień", "transform?przekształcać", "inside?w środku", "let?wynajmować", "peer?rówieśnik", "instance?instancja", "bread?chleb"]
+		}, {
+			"id": 16,
+			"title": "Moduł 16",
+			"content": ["impose?narzucać", "increase?zwiększać", "may?może", "conflict?konflikt", "tournament?turniej", "pride?duma", "psychologist?psycholog", "fade?znikać", "pursue?realizować", "helicopter?śmigłowiec", "literally?dosłownie", "exact?dokładny", "over?koniec", "fifteen?piętnaście", "blow?cios", "balance?saldo", "brush?szczotka", "argument?argument", "scared?przestraszony", "definition?definicja", "might?móc", "publication?publikacja", "tip?wskazówka", "taste?smak", "communicate?komunikować się", "stop?zatrzymaj się", "boundary?granica", "scholarship?stypendium", "record?nagrywać", "date?data", "blade?ostrze", "fair?sprawiedliwy", "woman?kobieta", "size?rozmiar", "know?wiedzieć", "believe?uważać", "man?facet", "accuse?oskarżać", "entrance?wejście", "decade?dekada"]
+		}, {
+			"id": 17,
+			"title": "Moduł 17",
+			"content": ["wine?wino", "vegetable?warzywo", "useful?użyteczne", "capture?zdobyć", "use?posługiwać się", "immediately?od razu", "accurate?dokładny", "idea?pomysł", "mayor?burmistrz", "protein?białko", "tend?mieć skłonności", "exposure?narażenie", "anywhere?gdziekolwiek", "cite?cytować", "blue?niebieski", "yourself?się", "focus?skupiać", "elderly?starsi", "achieve?osiągnąć", "adolescent?dorastający", "payment?zapłata", "independent?niezależny", "awareness?świadomość", "strip?rozebrać się", "lady?dama", "emphasis?podkreślenie", "fantasy?fantazja", "settle?rozstrzygnąć", "region?region", "press?naciśnij", "dirty?brudny", "strongly?silnie", "shopping?zakupy", "heat?ciepło", "maintain?utrzymywać", "frequently?często", "historical?historyczny", "deficit?deficyt", "perfectly?doskonale", "sin?grzech"]
+		}, {
+			"id": 18,
+			"title": "Moduł 18",
+			"content": ["temperature?temperatura", "instead?zamiast", "require?wymagać", "combine?połączyć", "classroom?klasa", "yet?już", "acquire?nabywać", "including?włącznie z", "effectively?efektywnie", "efficiency?efektywność", "because?dlatego", "constitute?stanowić", "appreciate?doceniać", "bike?rower", "whole?cały", "result?wynik", "salary?pensja", "trend?tendencja", "father?ojciec", "garlic?czosnek", "vital?niezbędny", "poetry?poezja", "satellite?satelita", "revenue?przychód", "rank?ranga", "journal?dziennik", "gently?łagodnie", "seem?wydać się", "speech?przemówienie", "excellent?doskonały", "eliminate?wyeliminować", "dismiss?odrzucać", "living?żyjący", "listen?słuchać", "offer?oferta", "favor?przychylność", "alternative?alternatywny", "volunteer?wolontariusz", "request?żądanie", "finish?koniec"]
+		}, {
+			"id": 19,
+			"title": "Moduł 19",
+			"content": ["dozen?tuzin", "trouble?kłopot", "consumer?konsument", "lover?kochanek", "aware?świadomy", "representative?przedstawiciel", "federal?federalny", "designer?projektant", "hole?otwór", "hard?ciężko", "horizon?horyzont", "black?czarny", "division?podział", "hide?ukryć", "sure?jasne", "relative?względny", "parent?rodzic", "origin?początek", "container?pojemnik", "settlement?osada", "buyer?kupujący", "gray?szary", "announce?ogłosić", "surely?pewno", "commitment?zaangażowanie", "publisher?wydawca", "pine?sosna", "tragedy?tragedia", "extremely?niezwykle", "significant?istotne", "another?inne", "star?gwiazda", "orange?pomarańczowy", "tour?wycieczka", "street?ulica", "die?umierać", "wheel?koło", "occupy?zająć", "telephone?telefon", "tunnel?tunel"]
+		}, {
+			"id": 20,
+			"title": "Moduł 20",
+			"content": ["collapse?upadek", "Iraqi?iracki", "attribute?atrybut", "clue?wskazówka", "consciousness?świadomość", "state?państwo", "regularly?regularnie", "therefore?dlatego", "prefer?woleć", "besides?oprócz", "routine?rutyna", "item?przedmiot", "ticket?bilet", "estate?osiedle", "son?syn", "house?dom", "pale?blady", "speak?mówić", "behind?za", "shirt?koszula", "late?późno", "set?ustawić", "surgery?chirurgia", "population?populacja", "science?nauki ścisłe", "photograph?fotografia", "recognize?rozpoznać", "shock?zaszokować", "bone?kość", "shelf?półka", "increasing?wzrastający", "load?załaduj", "film?film", "injury?uraz", "bed?łóżko", "already?już", "image?obraz", "engineer?inżynier", "cry?płakać", "thus?zatem"]
+		}, {
+			"id": 21,
+			"title": "Moduł 21",
+			"content": ["plan?plan", "religion?religia", "cop?policjant", "journey?podróż", "class?klasa", "along?przed siebie", "operating?operacyjny", "sing?śpiewać", "depend?zależeć", "quick?szybki", "clear?jasne", "saving?oszczędność", "themselves?sobie", "interesting?ciekawe", "dry?suchy", "plot?intrygować", "version?wersja", "case?walizka", "Asian?azjatyckie", "partnership?współpraca", "territory?terytorium", "particular?konkretny", "severe?ciężki : silny", "satisfaction?zadowolenie", "better?lepiej", "active?aktywny", "world?świat", "strategic?strategiczny", "initiative?inicjatywa", "provision?zaopatrzenie", "forest?las", "congressional?kongresowy", "approximately?około", "crazy?zwariowany", "mainly?głównie", "trail?ścieżka", "boot?uruchomić", "lawn?trawnik", "ought?powinien", "benefit?korzyść"]
+		}, {
+			"id": 22,
+			"title": "Moduł 22",
+			"content": ["chain?łańcuch", "tough?trudny", "peace?pokój", "glance?zerknąć", "relief?ulga", "fight?walka", "dependent?zależny", "senior?senior", "basically?zasadniczo", "card?karta", "interested?zainteresowany", "arrive?przyjechać", "gather?zebrać", "squeeze?ściskać", "city?miasto", "very?bardzo", "nearby?w pobliżu", "since?odkąd", "romantic?romantyczny", "play?bawić się", "stake?stawka", "than?niż", "key?klucz", "testimony?świadectwo", "concentration?stężenie", "comfortable?wygodna", "data?dane", "push?naciskać", "fall?spadek", "author?autor", "cross?krzyż", "celebrate?świętować", "seriously?na serio", "uniform?mundur", "freedom?wolność", "partner?partner", "notion?pojęcie", "supposed?przypuszczalny", "several?kilka", "engage?angażować się"]
+		}, {
+			"id": 23,
+			"title": "Moduł 23",
+			"content": ["morning?rano", "realize?realizować", "score?wynik", "apartment?apartament", "funny?zabawny", "perception?postrzeganie", "survive?przeżyć", "sugar?cukier", "pole?polak", "killing?zabicie", "worth?wartość", "western?zachodni", "pink?różowy", "kid?dziecko", "gaze?spojrzenie", "nice?ładny", "industrial?przemysłowy", "kind?uprzejmy", "drop?upuszczać", "retire?odchodzić", "thanks?dziękuję", "factory?fabryka", "mutual?wzajemne", "jet?strumień", "title?tytuł", "actual?rzeczywisty", "encourage?zachęcać", "significance?znaczenie", "manufacturer?producent", "barrier?bariera", "contain?zawierać", "airline?linia lotnicza", "shot?strzał", "upper?górny", "mad?szalony", "dear?droga", "sea?morze", "evaluation?ocena", "illustrate?zilustrować", "pause?pauza"]
+		}, {
+			"id": 24,
+			"title": "Moduł 24",
+			"content": ["storm?burza", "north?północ", "complicated?skomplikowany", "cheek?policzek", "total?całkowity", "specific?konkretny", "nature?natura", "beach?plaża", "analysis?analiza", "sales?sprzedaż", "crowd?tłum", "its?jego", "fix?naprawić", "establishment?ustanowienie", "ice?lód", "holiday?święto", "universe?wszechświat", "public?publiczny", "computer?komputer", "proper?właściwy", "everywhere?wszędzie", "subsequent?późniejszy", "expect?oczekiwać", "Mexican?meksykańska", "correspondent?korespondent", "but?ale", "translate?tłumaczyć", "forth?naprzód", "resolution?rezolucja", "belt?pas", "make?robić", "extend?rozszerzyć", "governor?gubernator", "file?plik", "sir?pan", "problem?problem", "terrorist?terrorysta", "changing?wymiana pieniędzy", "answer?odpowiadać", "prime?główny"]
+		}, {
+			"id": 25,
+			"title": "Moduł 25",
+			"content": ["museum?muzeum", "ingredient?składnik", "rhythm?rytm", "cool?fajny", "presentation?prezentacja", "jump?skok", "later?później", "exhibit?eksponować", "go?iść", "early?wczesny", "volume?tom", "composition?kompozycja", "agent?agent", "so-called?tak zwana", "transfer?przenosić ", "sweet?słodkie", "presence?obecność", "habitat?siedlisko", "modest?skromny", "justify?uzasadniać", "clock?zegar", "wing?skrzydło", "truck?ciężarówka", "sudden?nagły", "Republican?republikański", "scientist?naukowiec", "existence?istnienie", "show?pokazać", "pick?wybierać", "institution?instytucja", "swing?huśtać się", "policy?polityka", "king?król", "now?teraz", "bus?autobus", "pan?patelnia", "dominate?zdominować", "willing?chętny", "grocery?sklep spożywczy", "fighter?wojownik"]
+		}]
+	},
+	"words2": {
+		"name": "3000 słów część 2",
+		"moduls": [{
+			"id": 1,
+			"title": "Moduł 1",
+			"content": ["fill?wypełnić", "complain?skarżyć się", "line?linia", "roof?dach", "strengthen?wzmacniać", "away?z dala", "government?rząd", "ethnic?etniczny", "football?piłka nożna", "impress?imponować", "apparent?pozorny", "toe?palec u nogi", "mechanism?mechanizm", "guess?zgadywać", "fuel?paliwo", "month?miesiąc", "evolve?ewoluować", "highway?autostrada", "repeat?powtarzać", "ban?zakaz", "remote?zdalny", "Indian?indyjski", "leading?prowadzący", "dealer?kupiec", "farm?gospodarstwo rolne", "meet?spotykać się", "link?połączyć", "opening?otwarcie", "clean?czysty", "cycle?cykl", "girlfriend?dziewczyna", "concern?sprawa", "channel?kanał", "fitness?zdatność", "error?błąd", "sufficient?wystarczający", "membership?członkostwo", "emergency?nagły wypadek", "love?kocham", "town?miasto"]
+		}, {
+			"id": 2,
+			"title": "Moduł 2",
+			"content": ["convention?konwencja", "would?zrobiłbym", "careful?ostrożny", "beneath?pod", "faith?wiara", "continue?kontynuować", "junior?junior", "scale?skala", "cotton?bawełna", "therapy?terapia", "poem?wiersz", "reach?zasięg", "project?projekt", "grow?rosnąć", "price?cena £", "enhance?zwiększyć", "per?za", "analyze?analizować", "gang?banda", "that?że", "eat?jeść", "thank?dziękować", "salad?sałatka", "assumption?założenie", "drag?ciągnąć", "fish?ryba", "close?blisko", "large?wielki", "finally?wreszcie", "yell?krzyk", "have?mieć", "recover?wyzdrowieć", "plastic?plastikowy", "silent?cichy", "creation?kreacja", "evaluate?oceniać", "limit?limit", "next?następny", "economy?gospodarka", "empty?pusty"]
+		}, {
+			"id": 3,
+			"title": "Moduł 3",
+			"content": ["detail?szczegół", "task?zadanie", "warm?ciepły", "cheap?tani", "college?szkoła wyższa", "conventional?standardowy", "freeze?zamrażać", "hear?słyszeć", "lunch?obiad", "fail?ponieść porażkę", "power?moc", "Arab?arab", "proud?dumny", "oven?piekarnik", "odd?dziwne", "live?relacja na żywo", "pace?tempo", "consumption?konsumpcja", "collective?kolektyw", "noise?hałas", "pool?basen", "butter?masło", "absolutely?absolutnie", "struggle?walka", "nervous?nerwowy", "supporter?kibic", "soul?dusza", "construct?zbudować", "northern?północny", "rice?ryż", "tax?podatek", "license?licencja", "bag?torba", "poverty?ubóstwo", "affect?wpłynąć", "article?artykuł", "latter?końcowy", "wedding?ślub", "tonight?dziś wieczorem", "inquiry?zapytanie ofertowe"]
+		}, {
+			"id": 4,
+			"title": "Moduł 4",
+			"content": ["inspire?inspirować", "tower?wieża", "hang?powiesić", "down?na dół", "weight?waga", "else?w przeciwnym razie", "holy?święty", "until?aż do", "faculty?wydział", "security?bezpieczeństwo", "efficient?wydajny", "TV?telewizja", "somehow?jakoś", "fifth?piąty", "lose?stracić", "leg?noga", "hall?hol", "deep?głęboko", "growth?wzrost", "manager?menedżer", "way?droga", "oh?oh", "fishing?wędkarstwo", "could?mógłby", "education?edukacja", "tension?napięcie", "break?przerwanie", "everyday?codzienny", "bunch?garść", "prominent?znaczący", "heaven?niebo", "should?powinien", "sun?słońce", "duty?obowiązek", "comparison?porównanie", "also?również", "command?komenda", "invite?zapraszać", "program?program", "essay?praca pisemna"]
+		}, {
+			"id": 5,
+			"title": "Moduł 5",
+			"content": ["onto?na", "master?gospodarz", "part?część", "any?każdy", "event?wydarzenie", "patch?łata", "gesture?gest", "conclusion?wniosek", "rare?rzadki", "involved?zaangażowany", "issue?kwestia", "mere?sam", "cognitive?kognitywny", "camp?obóz", "possibly?prawdopodobnie", "Jew?żyd", "afternoon?wieczór", "bomb?bomba", "executive?wykonawczy", "perform?odgrywać", "call?połączenie", "today?dziś", "grave?mogiła", "adjustment?dostosowanie", "dog?pies", "objective?cel", "carefully?ostrożnie", "short?niski", "garden?ogród", "frequent?częsty", "proportion?proporcja", "partly?częściowo", "sanction?sankcja", "borrow?pożyczyć", "distinguish?wyróżnić", "gene?gen", "limited?ograniczony", "disagree?nie zgadzać się", "naturally?naturalnie", "emotional?emocjonalny"]
+		}, {
+			"id": 6,
+			"title": "Moduł 6",
+			"content": ["depending?zależny", "area?powierzchnia", "promote?promować", "particularly?w szczególności", "week?tydzień", "defense?obrona", "fresh?świeży", "boyfriend?chłopak", "wonderful?wspaniale", "aircraft?samolot", "reporter?reporter", "immediate?natychmiastowy", "scientific?naukowy", "indication?wskazanie", "natural?naturalny", "currently?w tej chwili", "it?to", "impossible?niemożliwy", "traditional?tradycyjny", "effort?wysiłek", "proposed?proponowane", "crew?załoga", "promise?obietnica", "minority?mniejszość", "previously?poprzednio", "account?rachunek", "half?połowa", "nuclear?jądrowy", "racial?rasowy", "barely?ledwie", "meeting?spotkanie", "relax?zrelaksować się", "movie?film", "danger?zagrożenie", "comedy?komedia", "development?rozwój", "venture?przedsięwzięcie", "spin?obracać", "nor?ani", "drink?drink"]
+		}, {
+			"id": 7,
+			"title": "Moduł 7",
+			"content": ["buy?kup", "milk?mleko", "memory?pamięć", "championship?mistrzostwo", "about?o", "production?produkcja", "rose?róża", "distinct?odrębny", "reference?odniesienie", "equipment?ekwipunek", "potato?ziemniak", "keep?trzymać", "nerve?nerw", "position?pozycja", "grandfather?dziadek", "into?w", "according?według", "equally?na równi", "guilty?winny", "attach?przytwierdzać", "bottom?na dole", "quote?cytat", "senator?senator", "unusual?niezwykłe", "wipe?wytrzeć", "snow?śnieg", "shift?zmiana", "suppose?przypuszczać", "technical?techniczny", "powder?proszek", "meter?metr", "label?etykieta", "horse?koń", "mountain?góra", "moment?za chwilę", "though?chociaż", "permission?pozwolenie", "consider?rozważać", "fashion?moda", "select?wybierz"]
+		}, {
+			"id": 8,
+			"title": "Moduł 8",
+			"content": ["sophisticated?wyrafinowany", "lemon?cytrynowy", "facility?obiekt", "protest?protest", "absolute?absolutny", "nurse?pielęgniarka", "tiny?malutki", "weigh?ważyć", "feature?funkcja", "claim?prawo", "feeling?uczucie", "scholar?uczony", "pet?zwierzak domowy", "loud?głośno", "beauty?piękno", "resort?ośrodek wczasowy", "debt?dług", "just?tylko", "function?funkcjonować", "originally?pierwotnie", "especially?szczególnie", "display?wyświetlacz", "topic?temat", "arrest?aresztować", "theater?teatr", "view?pogląd", "eight?osiem", "I?i", "anymore?nie więcej", "garage?garaż", "expansion?ekspansja", "yellow?żółty", "strength?siła", "shrug?wzruszać ramionami", "their?ich", "overcome?pokonać", "hi?cześć", "investigate?prowadzić śledztwo", "hypothesis?hipoteza", "up?w górę"]
+		}, {
+			"id": 9,
+			"title": "Moduł 9",
+			"content": ["forward?naprzód", "palm?palma", "allow?umożliwić", "similarly?podobnie", "historian?historyk", "painful?bolesny", "toy?zabawka", "desire?pragnienie", "explanation?wyjaśnienie", "ear?ucho", "those?tych", "family?rodzina", "vast?rozległy", "lower?niżej", "field?pole", "choose?wybierać", "consequence?konsekwencja", "porch?ganek", "leather?skórzany", "for?dla", "diverse?różnorodny", "invasion?inwazja", "contrast?kontrast", "examination?badanie", "technology?technologia", "burden?ciężar", "clinical?kliniczny", "mail?poczta", "economist?ekonomista", "narrative?narracja", "activist?aktywista", "musical?musical", "management?kierownictwo", "director?dyrektor", "lots?wiele", "ally?sprzymierzyć", "knock?pukanie", "ad?ogłoszenie", "common?wspólny", "gallery?galeria"]
+		}, {
+			"id": 10,
+			"title": "Moduł 10",
+			"content": ["concerned?zainteresowany", "significantly?znacznie", "user?użytkownik", "reservation?rezerwacja", "spread?rozpiętość", "Catholic?katolicki", "pretty?ładny", "breathe?oddychać", "fast?szybki", "figure?postać", "lead?ołów", "capital?kapitał", "difficult?trudny", "wall?ściana", "never?nigdy", "rifle?karabin", "nobody?nikt", "briefly?krótko", "club?klub", "campaign?kampania", "lifetime?dożywotni", "chip?żeton", "profit?zysk", "personality?osobowość", "assure?gwarantować", "chocolate?czekolada", "shall?być", "order?zamówienie", "suddenly?nagle", "impression?wrażenie", "slowly?powoli", "wife?żona", "string?strunowy", "private?prywatny", "player?gracz", "trip?wycieczka", "thousand?tysiąc", "collect?zebrać", "window?okno", "substantial?istotny"]
+		}, {
+			"id": 11,
+			"title": "Moduł 11",
+			"content": ["formal?formalny", "sake?wzgląd", "employ?zatrudniać", "imagine?wyobrażać sobie", "toss?podrzucenie", "Russian?rosyjski", "glove?rękawica", "repeatedly?wielokrotnie", "secure?bezpieczne", "thirty?trzydzieści", "bill?rachunek", "universal?uniwersalny", "exactly?dokładnie", "homeless?bezdomny", "dare?odważyć się", "flame?płomień", "bend?schylać się", "application?aplikacja", "neck?szyja", "similar?podobny", "respond?reagować", "retirement?emerytura", "stick?stick", "species?gatunek", "born?urodzić się", "job?stanowisko", "editor?redaktor", "lab?laboratorium", "emerge?pojawić się", "work?praca", "insight?wgląd", "ability?umiejętność", "DNA?dna", "nut?orzech", "emphasize?podkreślić", "distant?odległy", "approve?zatwierdzić", "instructor?instruktor", "vessel?naczynie", "implement?wprowadzić w życie"]
+		}, {
+			"id": 12,
+			"title": "Moduł 12",
+			"content": ["introduce?przedstawiać", "orientation?orientacja", "absorb?absorbować", "revolution?rewolucja", "who?kto", "participate?uczestniczyć", "household?gospodarstwo domowe", "expensive?kosztowny", "save?ratować", "watch?zegarek", "extraordinary?nadzwyczajny", "Israeli?izraelski", "basket?kosz", "rural?wiejski", "anybody?ktoś", "owner?właściciel", "permanent?stały", "demand?żądanie", "succeed?odnieść sukces", "annual?coroczny", "rain?deszcz", "unlikely?mało prawdopodobny", "rope?lina", "truly?naprawdę", "downtown?śródmieście", "wisdom?mądrość", "two?dwa", "blanket?koc", "vary?różnić się", "draft?projekt", "branch?oddział", "restore?przywrócić", "rating?ocena", "refugee?uchodźca", "offensive?ofensywa", "craft?rękodzieło", "cultural?kulturalny", "competition?konkurencja", "see?widzieć", "death?śmierć"]
+		}, {
+			"id": 13,
+			"title": "Moduł 13",
+			"content": ["generally?ogólnie", "daily?codzienny", "unless?chyba że", "obviously?oczywiście", "guideline?wytyczne", "highly?wysoko", "strike?strajk", "accompany?towarzyszyć", "research?badania", "surround?otaczać", "flavor?smak", "additional?dodatkowy", "series?seria", "cost?koszt", "direction?kierunek", "childhood?dzieciństwo", "grade?gatunek", "ill?chory", "perceive?postrzegać", "learn?uczyć się", "stupid?głupi", "prayer?modlitwa", "how?jak", "heel?obcas", "politically?politycznie", "end?koniec", "twice?dwa razy", "all?wszystko", "try?próbować", "resolve?rozstrzygać", "radical?rodnik", "remarkable?niezwykły", "assign?przydzielać", "dress?sukienka", "agency?agencja", "church?kościół", "attractive?atrakcyjny", "impressive?imponujący", "him?jego", "former?dawny"]
+		}, {
+			"id": 14,
+			"title": "Moduł 14",
+			"content": ["relatively?stosunkowo", "medication?lek", "path?ścieżka", "medical?medyczny", "network?sieć", "league?liga", "destroy?zniszczyć", "day?dzień", "emission?emisja", "positive?pozytywny", "Spanish?hiszpański", "defensive?obronny", "bad?zły", "context?kontekst", "desert?pustynia", "deliver?dostarczyć", "directly?bezpośrednio", "water?woda", "print?wydrukować", "peak?szczyt", "depth?głębokość", "tank?czołg", "portrait?portret", "soil?gleba", "blood?krew", "yours?twój", "evening?wieczór", "always?zawsze", "layer?warstwa", "potentially?potencjalnie", "minister?minister", "medicine?lekarstwo", "earnings?zyski", "responsibility?odpowiedzialność", "scheme?schemat", "tool?narzędzie", "plate?talerz", "sand?piasek", "suicide?samobójstwo", "take?brać"]
+		}, {
+			"id": 15,
+			"title": "Moduł 15",
+			"content": ["fat?tłuszcz", "pocket?kieszeń", "lung?płuco", "immigration?imigracja", "mall?centrum handlowe", "difference?różnica", "vs?vs", "physician?lekarz", "hair?włosy", "group?grupa", "begin?zaczynać", "sorry?przepraszam", "fence?ogrodzenie", "devote?poświęcać", "list?lista", "tone?ton", "target?cel", "digital?cyfrowy", "number?numer", "differ?różnić się", "Palestinian?palestyński", "which?który", "assume?założyć", "shade?cień", "choice?wybór", "everyone?każdy", "educational?edukacyjny", "even?nawet", "whereas?natomiast", "murder?morderstwo", "insist?nalegać", "hearing?przesłuchanie", "marketing?marketing", "compose?komponować", "rise?wzrastać", "wonder?cud", "gifted?utalentowany", "alone?sam", "news?aktualności", "basic?podstawowy"]
+		}, {
+			"id": 16,
+			"title": "Moduł 16",
+			"content": ["maintenance?konserwacja", "fabric?tkanina", "tail?ogon", "explode?eksplodować", "critical?krytyczny", "entry?wejście", "couple?para", "apple?jabłko", "exceed?przekroczyć", "president?prezydent", "although?chociaż", "undergo?przejść", "border?granica", "hungry?głodny", "intellectual?intelektualny", "body?ciało", "remove?usunąć", "successful?odnoszący sukcesy", "minute?minuta", "occasion?okazja", "priest?kapłan", "anticipate?przewidywać", "practical?praktyczny", "laboratory?laboratorium", "electricity?elektryczność", "combination?połączenie", "educate?kształcić", "obtain?uzyskać", "pregnant?w ciąży", "purpose?zamiar", "heavily?ciężko", "condition?stan", "bar?bar", "controversy?spór", "opposite?naprzeciwko", "onion?cebula", "elect?elekt", "comment?komentarz", "existing?istniejący", "tremendous?ogromny"]
+		}, {
+			"id": 17,
+			"title": "Moduł 17",
+			"content": ["margin?margines", "read?czytać", "table?stół", "plane?samolot", "dangerous?niebezpieczny", "software?oprogramowanie", "shake?potrząsnąć", "fiction?fikcja", "high?wysoki", "labor?praca", "province?województwo", "mix?mieszać", "guard?strażnik", "breakfast?śniadanie", "place?miejsce", "sport?sport", "sale?wyprzedaż", "necessary?niezbędny", "track?tor", "ready?gotowy", "pipe?rura", "fighting?walczący", "nearly?prawie", "encounter?spotkanie", "multiple?wiele ", "regular?regularny", "planning?planowanie", "salt?sól", "wise?mądry", "hold?utrzymać", "past?po", "department?dział", "formula?formuła", "commander?dowódca", "industry?przemysł", "cluster?grupa", "cream?krem", "toward?w kierunku", "full?pełny", "lack?brak"]
+		}, {
+			"id": 18,
+			"title": "Moduł 18",
+			"content": ["prepare?przygotować", "time?czas", "confirm?potwierdzać", "together?razem", "normally?normalnie", "extent?zakres", "ourselves?my sami", "define?definiować", "otherwise?inaczej", "fourth?czwarty", "coach?trener", "coffee?kawa", "magazine?czasopismo", "direct?bezpośredni", "global?światowy", "leader?lider", "frustration?udaremnienie", "proposal?wniosek", "wild?dziki", "shelter?schron", "candidate?kandydat", "traffic?ruch drogowy", "veteran?weteran", "term?termin", "pepper?pieprz", "association?stowarzyszenie", "liberal?liberał", "pass?podawać", "leave?odejdź", "remaining?pozostały", "village?wieś", "cap?czapka", "roll?rolka", "viewer?widz", "ten?dziesięć", "investor?inwestor", "food?jedzenie", "appearance?wygląd zewnętrzny", "floor?piętro", "athletic?atletyczny"]
+		}, {
+			"id": 19,
+			"title": "Moduł 19",
+			"content": ["drama?dramat", "bright?jasny", "arm?ramię", "legitimate?prawowity", "withdraw?wycofać", "powerful?potężny", "ever?zawsze", "description?opis", "influence?wpływ", "lovely?śliczny", "under?pod ", "neighborhood?sąsiedztwo", "cake?ciasto", "or?lub", "courage?odwaga", "long?długie", "terror?terror", "baby?dziecko", "respect?poszanowanie", "external?zewnętrzny", "suffer?cierpieć", "except?oprócz", "treatment?leczenie", "safety?bezpieczeństwo", "pack?pakiet", "whisper?szept", "degree?stopień", "evidence?dowód", "company?firma", "portion?część", "mark?znak", "negative?negatywny", "cloud?chmura", "hit?uderzyć", "consideration?namysł", "relate?odnosić się", "bank?bank", "send?wysłać", "dig?kopać", "convert?konwertować"]
+		}, {
+			"id": 20,
+			"title": "Moduł 20",
+			"content": ["service?usługa", "counselor?doradca", "pile?stos ", "door?drzwi", "switch?przełącznik", "suit?garnitur", "neither?żaden", "admit?przyznawać ", "stair?schodek", "mm-hmm?mm-hmm", "dream?śnić", "judgment?osąd", "golf?golf", "deny?zaprzeczyć", "discovery?odkrycie", "sexual?seksualny", "change?zmiana", "bench?ławka", "publish?publikować", "row?wiersz", "capable?zdolny", "bear?niedźwiedź", "sort?sortować", "slow?wolny", "humor?humor", "still?nadal", "steel?stal", "life?życie", "asleep?we śnie", "resist?oprzeć się", "honey?miód", "reduction?zmniejszenie", "hardly?prawie wcale", "despite?mimo", "satisfy?usatysfakcjonować", "piano?fortepian", "forget?zapominać", "indicate?wskazać", "finding?odkrycie", "rapid?nagły"]
+		}, {
+			"id": 21,
+			"title": "Moduł 21",
+			"content": ["base?baza", "maybe?być może", "competitive?konkurencyjny", "through?poprzez", "attack?atak", "primary?podstawowy", "equal?równy", "grand?wielki", "top?top", "likely?prawdopodobne", "egg?jajko", "want?chcieć", "wide?szeroki", "note?notatka", "describe?opisać", "ocean?ocean", "face?twarz", "fundamental?fundamentalny", "different?różne", "preference?pierwszeństwo", "hot?gorący", "legislation?ustawodawstwo", "conduct?przeprowadzić", "juice?sok", "support?pomoc", "correct?prawidłowy", "tell?powiedzieć", "boss?szef", "proof?dowód", "parking?parking", "sustain?podtrzymywać", "category?kategoria", "statement?oświadczenie", "not?nie", "engine?silnik", "Olympic?olimpijski", "characteristic?charakterystyka", "more?jeszcze", "narrow?wąska", "photographer?fotograf"]
+		}, {
+			"id": 22,
+			"title": "Moduł 22",
+			"content": ["install?zainstalować", "bond?obligacja", "sauce?sos", "least?najmniej", "immigrant?imigrant", "blame?winić", "legend?legenda", "bullet?pocisk", "primarily?głównie", "silence?cisza", "found?znaleziony", "near?blisko", "share?dzielić", "observer?obserwator", "simply?po prostu", "spirit?duch", "math?matematyka", "disease?choroba", "response?odpowiedź", "matter?materiał", "to?do", "stability?stabilność", "achievement?osiągnięcie", "handle?uchwyt", "admire?podziwiać", "capacity?pojemność", "conversation?rozmowa", "opponent?przeciwnik", "energy?energia", "huge?olbrzymi", "barrel?beczka", "teach?uczyć", "celebration?uroczystość", "really?naprawdę", "off?wyłączony", "preserve?utrzymywać", "occupation?zawód", "gift?prezent", "chapter?rozdział", "formation?tworzenie"]
+		}, {
+			"id": 23,
+			"title": "Moduł 23",
+			"content": ["distribute?rozprowadzać", "thin?cienki", "treaty?traktat", "bedroom?sypialnia", "source?źródło", "belong?należeć", "Bible?biblia", "firm?solidny", "throw?rzucić", "purchase?zakup", "shine?połysk", "critic?krytyk", "darkness?ciemność", "identity?tożsamość", "knowledge?wiedza", "assessment?oszacowanie", "indeed?rzeczywiście", "slave?niewolnik", "length?długość", "yard?dziedziniec", "find?odnaleźć", "surprise?niespodzianka", "invest?inwestować", "stuff?rzeczy", "anyone?ktokolwiek", "adopt?przyjąć", "baseball?baseball", "control?kontrola", "discussion?dyskusja", "foreign?zagraniczny", "experiment?eksperyment", "stone?złóg", "permit?pozwolić", "English?język angielski", "asset?zaleta", "flee?uciec", "herself?się", "observe?przestrzegać", "phone?telefon", "organic?organiczny"]
+		}, {
+			"id": 24,
+			"title": "Moduł 24",
+			"content": ["rarely?rzadko", "as?jak", "cast?rzucać ", "ugly?brzydki", "on?na ", "regional?regionalny", "suggestion?sugestia", "winter?zima", "voter?wyborca", "possibility?możliwość", "look?wyglądać", "steady?stały", "dinner?obiad", "wealth?bogactwo", "survival?przetrwanie", "contribute?przyczynić się", "train?pociąg", "glass?szkło", "bet?zakład", "they?one", "demonstrate?wykazać", "audience?publiczność", "cabinet?gabinet", "dispute?spierać się", "colleague?kolega z pracy", "bean?fasola", "approval?aprobata", "talent?talent", "consensus?zgoda", "election?wybór", "document?dokument", "administrator?administrator", "sigh?westchnienie", "picture?obrazek", "special?specjalny", "only?tylko", "actually?właściwie", "Irish?irlandczyk", "effect?efekt", "road?droga"]
+		}, {
+			"id": 25,
+			"title": "Moduł 25",
+			"content": ["hurt?zraniony", "twenty?dwadzieścia", "prior?wcześniejszy", "locate?znajdź", "marriage?małżeństwo", "market?rynek", "business?biznes", "include?włączać", "practice?ćwiczyć", "court?sąd", "recent?ostatni", "ceremony?ceremonia", "run?biegać", "youth?młodzież", "crisis?kryzys", "around?na około", "behavior?zachowanie", "proceed?przystępować", "bell?dzwon", "standard?standard", "hunting?polowanie", "band?pasmo", "mean?oznaczać", "angry?zły", "rid?eliminować", "novel?powieść", "unknown?nieznany", "able?zdolny", "float?platforma", "guy?facet", "substance?substancja", "contemporary?współczesny", "opinion?opinia", "writing?pismo", "actor?aktor", "expression?wyrażenie", "friend?przyjaciel", "gradually?stopniowo", "this?ten", "story?fabuła"]
+		}]
+	},
+	"words3": {
+		"name": "3000 słów część 3",
+		"moduls": [{
+			"id": 1,
+			"title": "Moduł 1",
+			"content": ["mental?psychiczny", "familiar?znajomy, rodzinny", "grass?trawa", "album?album", "mount?uchwyt", "site?strona", "stand?stoisko", "seed?nasionko", "dramatic?dramatyczny", "replace?zastąpić", "here?tutaj", "brown?brązowy", "fate?los", "slice?plasterek", "electronic?elektroniczny", "height?wzrost", "shoulder?ramię", "identification?identyfikacja", "apart?oprócz", "property?własność", "mood?nastrój", "island?wyspa", "Democrat?demokrata", "ship?statek", "curriculum?program", "definitely?zdecydowanie", "couch?kanapa", "interpretation?interpretacja", "discourse?rozprawiać", "artist?artysta", "wish?życzenie", "community?wspólnota", "side?bok", "illegal?nielegalny", "economic?gospodarczy", "soccer?piłka nożna", "accept?zaakceptować", "hour?godzina", "Mr?pan", "comprehensive?wyczerpujący"]
+		}, {
+			"id": 2,
+			"title": "Moduł 2",
+			"content": ["abroad?za granicą", "addition?dodatek", "route?trasa", "instruction?instrukcja", "unlike?w odróżnieniu", "criticism?krytyka", "some?niektóre", "within?w ciągu", "coast?wybrzeże", "resistance?opór", "breath?oddech", "pop?muzyka pop", "African?afrykanin", "ie?tj", "bombing?bombardowanie", "standing?na stojąco", "scope?zakres", "small?mały", "lean?pochylać się", "mask?maska", "whether?czy", "add?dodaj", "perspective?perspektywiczny", "genetic?genetyczny", "terrorism?terroryzm", "level?poziom", "tongue?język", "gun?pistolet", "climb?wspinać się", "unfortunately?niestety", "voice?głos", "participation?udział", "deck?talia kart", "adequate?odpowiedni", "trace?namierzać", "motivation?motywacja", "luck?szczęście", "appoint?wyznaczać", "personnel?personel", "chief?szef"]
+		}, {
+			"id": 3,
+			"title": "Moduł 3",
+			"content": ["alcohol?alkohol", "whenever?zawsze, gdy", "classic?klasyczny", "port?port", "landscape?krajobraz", "foundation?fundacja", "approach?zbliżać się", "member?członek", "weather?pogoda", "society?społeczeństwo", "culture?kultura", "tradition?tradycja", "range?zasięg", "advice?rada", "then?następnie", "criticize?krytykować", "clearly?wyraźnie", "passage?przejście", "workshop?warsztat", "musician?muzyk", "confident?pewny siebie", "penalty?rzut karny", "smart?mądry", "scandal?skandal", "character?postać", "organize?zorganizować", "Ms?sm", "stay?zostawać", "script?scenariusz", "selection?wybór", "skin?skóra", "strong?silny", "resemble?przypominać", "internal?wewnętrzny", "well?dobrze", "so?więc", "physically?fizycznie", "versus?przeciw", "weekend?weekend", "afford?pozwalać"]
+		}, {
+			"id": 4,
+			"title": "Moduł 4",
+			"content": ["age?wiek", "birth?narodziny", "trial?test", "pose?poza", "mode?tryb", "prevent?zapobiegać", "regard?szacunek", "whom?kogo, komu", "enable?włączać", "lift?winda", "library?biblioteka", "book?książka", "growing?rozwój", "you?ty", "comfort?komfort", "abandon?opuścić", "recognition?uznanie", "discuss?omówić", "abuse?nadużywać", "music?muzyka", "speaker?głośnik", "commission?zamawiać", "regulation?rozporządzenie", "bit?fragment", "round?okrągły", "doubt?wątpić", "relation?relacja", "ghost?duch", "observation?obserwacja", "surprisingly?zaskakująco", "escape?ucieczka", "slide?slajd", "quite?całkiem", "judge?sędzia", "sell?sprzedać", "myself?ja", "rate?wskaźnik", "explosion?eksplozja", "belief?wiara", "performance?wydajność"]
+		}, {
+			"id": 5,
+			"title": "Moduł 5",
+			"content": ["central?centralny", "ski?narty", "bury?pogrzebać", "and?oraz", "appointment?wizyta, umówione spotkanie", "consist?składać się", "physical?fizyczny", "concert?koncert", "PM?po południu", "finance?finanse", "understand?rozumiesz", "democratic?demokratyczny", "plenty?dużo", "British?brytyjski", "index?indeks", "box?skrzynka", "cup?puchar", "mind?umysł", "academic?akademicki", "political?polityczny", "moreover?co więcej", "quiet?cichy", "tactic?taktyka", "recording?nagranie", "reading?czytanie", "tablespoon?łyżka", "beyond?poza", "out?na zewnątrz", "acid?kwas", "derive?czerpać", "Congress?kongres", "surprised?zaskoczony", "charge?opłata", "largely?w dużej mierze", "tendency?tendencja", "post?poczta", "involvement?uwikłanie", "lie?kłamstwo", "importance?znaczenie", "system?system"]
+		}, {
+			"id": 6,
+			"title": "Moduł 6",
+			"content": ["tribe?plemię", "fewer?mniej", "explain?wyjaśnić", "urban?miejski", "ceiling?sufit", "seven?siedem", "glad?zadowolony", "cousin?kuzyn", "frequency?częstotliwość", "researcher?badacz", "plus?plus", "both?zarówno", "reveal?ujawnić", "something?coś", "pilot?pilot", "happen?zdarzyć", "color?kolor", "planet?planeta", "Chinese?chiński", "cut?skaleczenie", "sharp?ostry", "associate?współpracownik", "agree?zgodzić się", "outside?poza", "challenge?wyzwanie", "package?pakiet", "loan?pożyczka", "shit?gówno", "corn?kukurydza", "persuade?namówić", "shout?krzyczeć", "intensity?intensywność", "hero?bohater", "Canadian?kanadyjski", "far?daleko", "conference?konferencja", "slip?poślizg", "trick?sztuczka", "ball?piłka", "wander?wędrować"]
+		}, {
+			"id": 7,
+			"title": "Moduł 7",
+			"content": ["chase?pościg", "spring?wiosna", "divide?dzielić", "cow?krowa", "French?francuski", "no?nie", "attempt?próba", "theme?motyw", "lost?stracony", "attend?brać udział w", "fortune?fortuna", "medium?średni", "board?tablica", "essential?niezbędny", "everybody?wszyscy", "white?biały", "flow?pływ", "punishment?kara", "often?często", "somebody?ktoś", "dramatically?dramatycznie", "safe?bezpieczny", "chicken?kurczak", "below?poniżej", "working?pracujący", "structure?struktura", "intelligence?inteligencja", "meanwhile?w międzyczasie", "mother?matka", "fifty?pięćdziesiąt", "exist?istnieć", "arrange?zorganizować", "nine?dziewięć", "violence?przemoc", "relationship?relacja", "plant?zakład", "win?wygrać", "setting?ustawienie", "technique?technika", "she?ona"]
+		}, {
+			"id": 8,
+			"title": "Moduł 8",
+			"content": ["smell?zapach", "say?mówić", "jury?jury", "reflection?odbicie", "visible?widoczny", "being?istnienie", "separate?oddzielny", "complaint?skarga", "violation?naruszenie", "shower?kabina prysznicowa", "transformation?transformacja", "celebrity?sława", "curious?ciekawski", "outcome?wynik", "AM?jestem", "location?lokalizacja", "restaurant?restauracja", "declare?ogłosić", "aspect?aspekt", "boat?łódź", "again?ponownie", "photo?zdjęcie", "regarding?jeżeli chodzi o", "initially?początkowo", "component?składnik", "question?pytanie", "style?styl", "talk?rozmowa", "our?nasz", "worry?martwić się", "snap?pstryknąć", "given?dany", "motion?ruch", "increased?zwiększony", "during?w trakcie", "dust?pył", "river?rzeka", "where?gdzie", "credit?kredyt", "joke?żart"]
+		}, {
+			"id": 9,
+			"title": "Moduł 9",
+			"content": ["history?historia", "painter?malarz", "weak?słaby", "these?te", "television?telewizja", "sound?dźwięk", "sick?chory", "in?w", "honest?uczciwy", "pain?ból", "solid?solidny", "incentive?zachęta", "discover?odkryć", "deal?sprawa", "root?źródło", "independence?niezależność", "exercise?ćwiczenie", "Soviet?radziecki", "ago?temu", "worried?zmartwiony", "develop?rozwijać", "decrease?zmniejszać", "quality?jakość", "male?mężczyzna", "green?zielony", "sue?pozwać", "station?stacja", "priority?priorytet", "African-American?afroamerykanin", "hello?witam", "first?pierwszy", "soldier?żołnierz", "chest?skrzynia", "possible?możliwy", "employment?zatrudnienie", "pot?garnek", "framework?struktura", "attention?uwaga", "simple?prosty", "rather?raczej"]
+		}, {
+			"id": 10,
+			"title": "Moduł 10",
+			"content": ["best?najlepsza", "financial?budżetowy", "owe?być winnym", "police?policja", "helpful?pomocny", "social?społeczny", "whatever?cokolwiek", "heavy?ciężki", "moral?morał", "farmer?rolnik", "distance?dystans", "segment?człon", "sacred?poświęcony", "previous?poprzedni", "prison?więzienie", "do?robić", "imagination?wyobraźnia", "leadership?przywództwo", "vacation?wakacje", "back?plecy", "circle?okrąg", "skill?umiejętność", "numerous?liczny", "welfare?zasiłek", "philosophy?filozofia", "process?proces", "artistic?artystyczny", "clothes?odzież", "learning?uczenie się", "mention?wzmianka", "terms?semestry", "desperate?zdesperowany", "expand?zwiększać", "ground?grunt", "mass?masa", "typical?typowy", "object?obiekt", "badly?źle", "mine?moje", "start?początek"]
+		}, {
+			"id": 11,
+			"title": "Moduł 11",
+			"content": ["adult?dorosły", "concentrate?skupiać się", "register?zarejestruj się", "cope?radzić sobie", "chef?szef kuchni", "pregnancy?ciąża", "stranger?nieznajomy", "nod?ukłon", "act?akt", "action?akcja", "bottle?butelka", "prescription?recepta", "return?zwrócić", "reader?czytelnik", "available?do dyspozycji", "pray?módl się", "net?internet", "address?adres zamieszkania", "information?informacja", "operator?operator", "privacy?prywatność", "American?amerykański", "eventually?ostatecznie", "employee?pracownik", "strategy?strategia", "manufacturing?produkcja", "smoke?palić", "occasionally?sporadycznie", "summer?lato", "carrier?nośnik", "storage?magazynowanie", "instrument?instrument", "secret?sekret", "publicly?publicznie", "hate?nienawidzić", "n't?nie", "typically?zazwyczaj", "desk?biurko", "introduction?wprowadzanie", "preparation?przygotowanie"]
+		}, {
+			"id": 12,
+			"title": "Moduł 12",
+			"content": ["participant?uczestnik", "cat?kot", "content?zawartość", "we?my", "session?sesja", "fault?wada", "nonetheless?niemniej jednak", "others?inni", "young?młody", "without?bez", "fully?w pełni", "CEO?ceo", "signal?sygnał", "beat?bić", "machine?maszyna", "anxiety?lęk", "tired?zmęczony", "present?teraźniejszość", "victim?ofiara", "wake?budzić", "German?niemiecki", "reputation?reputacja", "remind?przypominać", "merely?zaledwie", "Islamic?islamski", "debate?debata", "works?pracuje", "expert?ekspert", "infection?infekcja", "complete?kompletny", "detailed?szczegółowy", "virtue?cnota", "paint?farba", "eastern?wschodni", "stress?stres", "fruit?owoc", "everything?wszystko", "enterprise?przedsiębiorstwo", "constantly?stale", "Supreme?najwyższy"]
+		}, {
+			"id": 13,
+			"title": "Moduł 13",
+			"content": ["democracy?demokracja", "failure?awaria", "reaction?reakcja", "intense?intensywny", "captain?kapitan", "reasonable?rozsądny", "advantage?korzyść", "wrap?zawinąć", "shortly?wkrótce", "study?nauka", "shooting?strzelanie", "material?materiał", "brick?cegła", "refer?wspominać", "decide?zdecydować", "mess?bałagan", "missile?pocisk", "much?dużo", "implication?implikacja", "investigation?dochodzenie", "east?wschód", "lucky?szczęściarz", "delay?opóźnienie", "coalition?koalicja", "widespread?rozpowszechniony", "stream?strumień", "Latin?łacina", "sink?zlew", "dining?jadalnia", "tent?namiot", "he?on", "victory?zwycięstwo", "shore?wybrzeże", "word?słowo", "front?przód", "poet?poeta", "entire?cały", "race?wyścig", "notice?zauważyć", "wear?nosić "]
+		}, {
+			"id": 14,
+			"title": "Moduł 14",
+			"content": ["campus?kampus", "somewhat?nieco", "measure?mierzyć", "wait?czekać", "greatest?największy", "enjoy?smacznego", "loss?strata", "your?twój", "commercial?reklama w telewizji", "occur?zdarzać się", "false?fałszywy", "soft?miękki", "pay?płacić", "wave?fala", "survivor?niedobitek", "tape?taśma", "reject?odrzucić", "newly?nowo", "sex?seks", "phase?faza", "circumstance?okoliczność", "institutional?instytucjonalny", "jacket?kurtka", "reform?reforma", "collection?kolekcja", "construction?budowa", "exciting?ekscytujący", "depression?depresja", "champion?mistrz", "complex?złożony", "tie?krawat", "cancer?nowotwór", "vision?wizja", "concept?pojęcie", "ahead?dalej", "following?następny", "visual?wizualny", "burn?oparzenie", "provider?dostawca", "incident?incydent"]
+		}, {
+			"id": 15,
+			"title": "Moduł 15",
+			"content": ["utility?pożytek", "singer?piosenkarz", "concrete?beton", "head?głowa", "rough?surowy", "compete?konkurować", "somewhere?gdzieś", "year?rok", "activity?działalność", "attract?pociągać", "competitor?konkurent", "quickly?szybko", "expense?koszt", "elsewhere?gdzie indziej", "confusion?dezorientacja", "recommendation?rekomendacje", "adapt?przystosować się", "daughter?córka", "calculate?oblicz", "motor?silnik", "silver?srebro", "release?wydanie", "cause?przyczyna", "climate?klimat", "effective?skuteczny", "perhaps?być może", "cook?gotować", "land?grunt", "strange?dziwny", "mission?misja", "can?móc", "stable?stabilny", "improve?poprawić", "patient?pacjent", "incredible?niesamowite", "mortgage?hipoteka", "characterize?charakteryzować", "personal?osobisty", "teaching?nauczanie", "protect?chronić"]
+		}, {
+			"id": 16,
+			"title": "Moduł 16",
+			"content": ["west?zachód", "crop?przyciąć", "fun?zabawa", "prosecutor?prokurator", "regulate?regulować", "after?po", "brother?brat", "success?powodzenie", "manner?sposób", "recall?przypomnienie sobie czegoś", "catch?złapać", "car?samochód", "national?krajowy", "suggest?sugerować", "fact?fakt", "heritage?dziedzictwo", "spend?spędzić", "menu?menu", "serve?obsługiwać", "involve?zaangażować", "a?a", "camera?aparat fotograficzny", "left?lewy", "actress?aktorka", "dark?ciemny", "afraid?przestraszony", "with?z", "will?będzie", "beside?obok", "few?mało", "stare?gapić się", "itself?samo", "launch?początek", "heart?serce", "hand?ręka", "disorder?nieład", "union?unia", "song?utwór muzyczny", "free?darmowy", "secretary?sekretarz"]
+		}, {
+			"id": 17,
+			"title": "Moduł 17",
+			"content": ["page?strona", "usual?zwykły", "diversity?różnorodność", "military?wojskowy", "telescope?teleskop", "if?jeśli", "stock?zbiory", "progress?postęp", "civilian?cywil", "surface?powierzchnia", "situation?sytuacja", "by?za pomocą", "old?stary", "park?park", "temporary?tymczasowy", "Christmas?boże narodzenie", "connection?połączenie", "economics?ekonomia", "soon?wkrótce", "bother?niepokoić", "miracle?cud", "evolution?ewolucja", "throughout?na wskroś", "piece?kawałek", "educator?pedagog", "pitch?poziom", "awful?okropny", "contact?kontakt", "average?przeciętny", "properly?odpowiednio", "waste?marnotrawstwo", "pie?ciasto", "schedule?harmonogram", "airport?lotnisko", "example?przykład", "identify?zidentyfikować", "rely?polegać", "truth?prawda", "zone ?strefa", "enforcement?egzekwowanie"]
+		}, {
+			"id": 18,
+			"title": "Moduł 18",
+			"content": ["boom?bum", "recovery?powrót do zdrowia", "every?każdy", "operate?obsługiwać", "nose?nos", "us?nas", "cheese?ser", "friendly?przyjazny", "sentence?wyrok", "variation?zmiana", "hip?biodro", "interview?wywiad", "million?milion", "vehicle?pojazd", "famous?słynny", "prove?udowodnić", "when?gdy", "tea?herbata", "upon?od", "contract?kontrakt", "square?kwadrat", "lawsuit?pozew sądowy", "discipline?dyscyplina", "someone?ktoś", "housing?mieszkania", "birthday?urodziny", "principal?główny", "witness?świadek", "hope?nadzieja", "Jewish?żydowski", "driver?kierowca", "country?kraj", "Mrs?pani", "assignment?zadanie", "cell?komórka", "pour?wlać", "spokesman?rzecznik", "habit?nawyk", "coal?węgiel", "knee?kolano"]
+		}, {
+			"id": 19,
+			"title": "Moduł 19",
+			"content": ["consume?konsumować", "message?wiadomość", "successfully?z powodzeniem", "type?rodzaj", "rule?reguła", "assert?zapewniać", "explore?badać", "international?międzynarodowy", "alliance?sojusz", "throat?gardło", "school?szkoła", "teen?nastolatek", "neighbor?sąsiad", "lock?zamek", "cigarette?papieros", "warn?ostrzegać", "acknowledge?uznawać", "bind?wiązać", "weapon?broń", "possess?posiadać", "probably?prawdopodobnie", "variable?zmienny", "passion?pasja", "true?prawda", "broad?szeroki", "brilliant?znakomity", "gear?bieg ", "stir?zamieszać", "infant?dziecko", "easy?łatwo", "code?kod", "recommend?polecić", "lap?okrążenie", "newspaper?gazeta", "extra?dodatkowy", "thick?gruby", "bridge?most", "between?pomiędzy", "good?dobry", "tennis?tenis ziemny"]
+		}, {
+			"id": 20,
+			"title": "Moduł 20",
+			"content": ["yes?tak", "low?niski", "think?myśleć", "panel?płyta", "administration?administracja", "passenger?pasażer", "stage?etap", "among?wśród", "variety?różnorodność", "tomorrow?jutro", "wire?drut", "commit?popełniać", "bring?przynieść", "shoot?strzelać", "domestic?domowy", "less?mniej", "county?hrabstwo", "avoid?unikać", "carry?mieć przy sobie", "drawing?rysunek", "mom?mama", "disappear?znikać", "tourist?turystyczny", "wood?drewno", "dimension?wymiar", "female?kobieta", "across?przez", "professional?profesjonalny", "bake?upiec", "fear?strach", "mistake?błąd", "mixture?mieszanina", "real?prawdziwy", "used?używany", "apparently?widocznie", "space?przestrzeń", "tissue?papierowa chusteczka", "marry?ożenić", "restriction?ograniczenie", "decision?decyzja"]
+		}, {
+			"id": 21,
+			"title": "Moduł 21",
+			"content": ["generate?generować", "same?to samo", "wind?wiatr", "reason?powód", "uncle?wujek", "exchange?wymieniać się", "crime?przestępczość", "adjust?dostosować", "profession?zawód", "cover?pokrywa", "search?szukaj", "symbol?symbol", "ok?ok", "galaxy?galaktyka", "electric?elektryczny", "predict?przewidywać", "online?online", "whose?którego", "sheet?arkusz", "deputy?zastępca", "training?trening", "warning?ostrzeżenie", "my?mój", "creature?kreatura", "breast?pierś", "convince?przekonać", "dead?nie żyje", "guest?gość", "pant?dyszeć", "submit?zatwierdź", "move?ruszaj się", "broken?złamany", "customer?klient", "married?żonaty", "feed?karmić", "none?żaden", "once?raz", "raw?surowe", "ultimately?ostatecznie", "completely?całkowicie"]
+		}, {
+			"id": 22,
+			"title": "Moduł 22",
+			"content": ["basis?podstawa", "ethics?etyka", "criteria?kryteria", "armed?uzbrojony", "representation?reprezentacja", "monitor?monitor", "episode?epizod", "troop?stado", "protection?ochrona", "transition?przemiana", "anniversary?rocznica", "corporate?zbiorowy", "steal?kraść", "fire?ogień", "attorney?adwokat", "flower?kwiat", "rail?szyna", "ride?jeździć", "citizen?obywatel", "politician?polityk", "from?z", "flight?lot", "summit?szczyt", "option?opcja", "arrangement?układ", "reinforce?wzmacniać", "official?urzędnik", "vulnerable?wrażliwy", "headline?nagłówek", "lot?działka", "opportunity?możliwość", "tree?drzewo", "compare?porównywać", "obvious?oczywiste", "psychology?psychologia", "affair?romans", "sense?sens", "background?tło", "demonstration?demonstracja", "follow?śledzić"]
+		}, {
+			"id": 23,
+			"title": "Moduł 23",
+			"content": ["defendant?pozwany", "frame?rama", "anger?gniew", "qualify?zakwalifikować", "via?przez", "constitutional?konstytucyjny", "specifically?konkretnie", "join?przystąp", "southern?południowy", "atmosphere?atmosfera", "mirror?lustro", "while?podczas gdy", "thing?rzecz", "charity?jałmużna", "create?stwórz", "at?w", "media?głoska bezdźwięczna", "either?zarówno", "rush?wysypka", "treat?leczyć", "scenario?scenariusz", "reduce?redukować", "anything?byle co", "coverage?zasięg", "understanding?zrozumienie", "refuse?odrzucać", "student?student", "too?także", "e-mail?e-mail", "game?gra", "miss?tęsknić", "solar?słoneczny", "elite?elita", "confront?konfrontować", "communication?komunikacja", "testing?testowanie", "ignore?ignorować", "continued?nieprzerwany", "running?działanie", "friendship?przyjaźń"]
+		}, {
+			"id": 24,
+			"title": "Moduł 24",
+			"content": ["deeply?głęboko", "like?tak jak", "war?wojna", "subject?przedmiot", "advocate?rzecznik", "prospect?perspektywa", "enough?wystarczająco ", "his?jego", "iron?żelazo", "advanced?zaawansowane", "tobacco?tytoń", "provide?dostarczać", "massive?masywny", "studio?studio", "tight?obcisły", "eager?chętny", "gold?złoto", "ensure?zapewnić", "trust?zaufanie", "valley?dolina", "spot?miejsce", "adventure?przygoda", "Italian?włoski", "platform?platforma", "name?nazwa", "alter?zmieniać", "tear?łza", "shut?zamknąć", "video?wideo", "pure?czysty", "put?położyć", "home?dom", "responsible?odpowiedzialny", "fairly?raczej", "one?jeden", "PC?pc", "exception?wyjątek", "attitude?nastawienie", "painting?obraz", "flesh?ciało"]
+		}, {
+			"id": 25,
+			"title": "Moduł 25",
+			"content": ["reality?rzeczywistość", "essentially?głównie", "sweep?zamiatać", "above?nad", "aid?pomoc", "phrase?wyrażenie", "hunter?łowca", "prompt?podpowiedź", "intend?zamierzać", "them?ich", "increasingly?coraz bardziej", "person?osoba", "rub?pocierać", "nomination?nominacja", "season?pora roku", "there?tam", "open?otwarty", "literature?literatura", "architect?architekt", "obligation?obowiązek", "maker?producent", "carbon?węgiel", "violent?brutalny", "naked?nagi", "sign?podpisać", "status?status", "future?przyszły", "bowl?miska", "interaction?interakcja", "tooth?ząb", "doctor?lekarz", "religious?religijny", "aim?cel", "easily?z łatwością", "experience?doświadczenie", "busy?zajęty", "inner?wewnętrzny", "conclude?wyciągnąć wniosek", "paper?papier", "pull?ciągnąć"]
+		}]
+	}
+}

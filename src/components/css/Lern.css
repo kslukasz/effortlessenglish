@@ -1,0 +1,172 @@
+.lern{
+        box-sizing: border-box;
+        text-decoration: none;
+        color:black;
+        border:2px solid rgb(202, 202, 202);
+        padding: 5px 3px ;         
+        display: flex;           
+        min-width: 300px;
+        width: 100%;
+        max-width: 500px;           
+}
+.header{
+    position: relative;
+    padding:20px 0;
+    text-shadow: 0 0 5px rgba(0, 132, 193, 0.57);
+    color: rgb(0, 132, 193);    
+}
+.header:hover:after{
+    content: attr(tip);  
+    font-size: 12px;
+    padding: 2px;
+    background-color: rgba(240, 248, 255, 0.553);
+    border-radius: 2px;
+    white-space: nowrap;   
+    position: absolute;
+    display: block;
+    left:20%;
+    z-index: 99;   
+}
+.header:hover{
+    text-decoration: underline;    
+}
+.answer{   
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 1px;
+    margin:2px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap; 
+    flex-basis: 30%;
+    height: 42px;   
+}
+.contanswer{
+    width: 100%; 
+    justify-content: center;   
+}
+.left{   
+    width: 100%;
+    padding-top: 15px;
+     display: flex;      
+}
+.answer:hover{
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 1px;
+    margin:2px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap; 
+    flex-basis: 30%;
+    height: 42px;
+    cursor: pointer;
+    border:2px solid rgb(125, 125, 125);
+    box-shadow: inset 0 0 0 2px rgb(202, 202, 202);
+    background-color: rgba(43, 43, 43, 0.596);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.57);
+    color: white;
+}
+.afteranswer{
+    cursor: default;
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 1px;
+    margin:2px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap; 
+    flex-basis: 30%;
+    height: 42px;
+}
+.correct{
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 1px;
+    margin:2px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap; 
+    flex-basis: 30%;
+    height: 42px;
+    cursor: default;
+    border:2px solid rgba(17, 255, 0, 0.596);
+    box-shadow: inset 0 0 0 2px rgb(125, 125, 125);
+    background-color: rgba(17, 255, 0, 0.596);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.57);
+    color: white;
+}
+.correct:hover{
+    cursor: default;
+    border:2px solid rgba(17, 255, 0, 0.596);
+    box-shadow: inset 0 0 0 2px rgb(125, 125, 125);
+    background-color: rgba(17, 255, 0, 0.596);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.57);
+    color: white;
+}
+.incorrect{
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 1px;
+    margin:2px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap; 
+    flex-basis: 30%;
+    height: 42px;
+    cursor: default;
+    border:2px solid rgba(255, 0, 0, 0.596) !important;
+    box-shadow: inset 0 0 0 2px rgb(125, 125, 125);
+    background-color: rgba(255, 0, 0, 0.596) !important;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.57);
+    color: white;
+}
+.incorrect:hover{
+    cursor: default;
+    border:2px solid rgba(255, 0, 0, 0.596);
+    box-shadow: inset 0 0 0 2px rgb(125, 125, 125);
+    background-color: rgba(255, 0, 0, 0.596);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.57);
+    color: white;
+}
+.buttonNext{
+    font-family: inherit;
+    font-size: inherit;
+    background-color: inherit;
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 1px 25px;
+    margin:10px 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap;    
+    height: 42px; 
+}
+.buttonNext:hover{
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    white-space: nowrap;  
+    height: 42px;
+    cursor: pointer;
+    border:2px solid rgb(125, 125, 125);
+    box-shadow: inset 0 0 0 2px rgb(202, 202, 202);
+    background-color: rgba(43, 43, 43, 0.596);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.57);
+    color: white;
+}

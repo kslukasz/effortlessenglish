@@ -1,0 +1,9 @@
+.home{
+    box-sizing: border-box;
+    text-decoration: none;
+    color:black;
+    border:2px solid rgb(202, 202, 202);
+    padding: 2px 20px ;
+    margin:5px 10px 2px;   
+   
+}

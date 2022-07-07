@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Poppins:ital,wght@0,400;1,300&display=swap');
+
+.App {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.57);
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  min-height: 100vh;
+  background: linear-gradient(0.5turn, rgba(204, 19, 19, 0), rgba(255, 255, 255, 0.516)150px, rgba(255, 255, 255, 0.516)70%, rgba(255, 255, 255, 0)), linear-gradient(to right, rgb(192, 240, 78), rgb(158, 183, 195));
+ 
+}
+.darkmode{
+   filter:invert();  
+}
+
+.cont_column {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cont_row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;  
+}
+
+.nowrap {
+  flex-wrap: nowrap;
+  /* align-items: flex-end; */
+}
+
+.fontVeryBig {
+  font-size: 30px;
+}
+
+.fontBig {
+  font-size: 22px;
+}
+
+.fontSmall {
+  font-size: 12px;
+}
+
+hr { 
+  width: 100%;
+  border-style: none;
+  height: 2px;
+  margin: 0;
+  background: linear-gradient(to left, rgb(192, 240, 78), rgb(76, 121, 142));
+}
+
+nav {
+  padding: 10px;
+}
+
+main {
+  width: 100%;
+  flex-grow: 1;
+  max-width: 1200px;  
+}
+
+.display_none {
+  display: none;
+}
+
+.main{
+  padding: 5px 2px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mail{
+  color: black;
+}
+.mail:hover{
+  text-decoration: underline;
+}
