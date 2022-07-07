@@ -2,9 +2,9 @@
     position: relative;    
     font-family: 'Julee';
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 38px;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.752);
-    margin-right: 50px;   
+    margin-right: 40px;   
 }
 .first_element_mobile{    
     transform: rotate(-5deg);
