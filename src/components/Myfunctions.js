@@ -78,7 +78,7 @@ function compareData(userData, key) {
             settings: {
                 language: "PL",
                 sesion: [copykey[0], 0],
-                level:6,
+                level:5,
                 darkmode: false,
             }
 
