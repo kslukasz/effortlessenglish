@@ -35,11 +35,11 @@
     color: red;
     max-height: 0px;
     overflow: hidden;     
-    transition-duration: 0.5s;
+    /* transition-duration: 0.5s; */
     transition-property: max-height; 
 }
 .long{
     max-height: 1000px;
-    transition-duration: 0.5s;
+    /* transition-duration: 0.5s; */
     transition-property: max-height;      
 }
