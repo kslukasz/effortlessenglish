@@ -49,3 +49,6 @@
 .percent{
     min-width: 42px;
 }
+.center{
+    align-items: center;
+}

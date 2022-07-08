@@ -17,6 +17,7 @@
    justify-content: center;
 }
 .title{
+    text-align: center;
     padding-bottom: 15px;
 }
 .modul:hover{
@@ -30,7 +31,13 @@
 .material-symbols-outlined{
     transition-duration: 0.2s;
 }
-
+.info{    
+    color: red;
+    max-height: 0px;
+    overflow: hidden;     
+    transition-duration: 0.5s;
+    transition-property: max-height; 
+}
 .long{
     max-height: 1000px;
     transition-duration: 0.5s;

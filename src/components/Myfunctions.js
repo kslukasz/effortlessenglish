@@ -63,8 +63,7 @@ function addToRepeat (randomData, userData) {
     });
     if (result.length===0){
         copyUserData.repeat.push(randomData.dataToLern[randomData.indexModuls]);
-    }
-    console.log(copyUserData);
+    }    
     return copyUserData;    
 }
 

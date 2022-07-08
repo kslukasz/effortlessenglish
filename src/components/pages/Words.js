@@ -17,7 +17,11 @@ function Words() {
         return variableObject;
     }
 
-    const [moduleList, setModuleList] = useState(createModuleList())    
+    const [moduleList, setModuleList] = useState(createModuleList());
+    const [visibleDelete, setVisibleDelete] = useState(false);  
+    const handleVisivleDelete =()=>{
+        setVisibleDelete(!visibleDelete);
+    }  
     
     const handleClickSelect = (element) => {  
         const copyModuleList = {...moduleList}  
@@ -40,14 +44,21 @@ function Words() {
                 <List
                 element={element}
                 moduleList={moduleList}
+                visibleDelete={visibleDelete}
                 />
             </div>
         )
     })       
-    return (        
+    return (   
+        <>
+        <div className='cont_column here'><div className='cont_row center'>Czyszczenie modułów: 
+        <input type="checkbox" checked={visibleDelete} onChange={handleVisivleDelete}/> </div> 
+        <div className={`info ${visibleDelete ? "long" : null}`}>Uwaga! Czyszczenie modułów jest nieodwracalne.</div>
+        </div>    
         <div className='cont_row flexgrow'>
             {result}
         </div>
+        </>
     );
 }
 

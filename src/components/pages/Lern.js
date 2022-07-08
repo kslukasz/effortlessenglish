@@ -72,7 +72,7 @@ function Lern() {
         const answerArray = (
             randomData.answer.map((element, index) => {
                 return (
-                    <div className={`${checkClass(index)}`} key={element} onClick={() => checkAnswer(index)}>{element}</div>
+                    <div className={`${checkClass(index)}`} key={element+index} onClick={() => checkAnswer(index)}>{element}</div>
                 )
             })
         )
