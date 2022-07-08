@@ -32,9 +32,7 @@ function List({ element, moduleList , visibleDelete }) {
             )
         });
         const copyUserData = JSON.parse(JSON.stringify(userData));
-        copyUserData.words=newWords;
-        // console.log(copyUserData)
-        // console.log(newWords.length);
+        copyUserData.words=newWords;      
         setUserData(copyUserData);
 
         }
