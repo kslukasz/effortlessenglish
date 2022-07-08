@@ -7,7 +7,7 @@ function Home() {
         <div className='cont_column home'>
             <span className='fontBig'>Aplikacja do nauki słówek</span>
             <span>PL-EN EN-PL</span>
-            <span>Automatyczny zapis postępów nauki na bierzącym urządzeniu</span>
+            <span>Automatyczny zapis postępów nauki na bieżącym urządzeniu</span>
         </div>
      );
 }
