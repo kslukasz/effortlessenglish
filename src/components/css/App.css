@@ -9,7 +9,7 @@
   -webkit-user-select: none;
   -moz-user-select: none;
   min-height: 100vh;
-  background: linear-gradient(0.5turn, rgba(204, 19, 19, 0), rgba(255, 255, 255, 0.516)150px, rgba(255, 255, 255, 0.516)70%, rgba(255, 255, 255, 0)), linear-gradient(to right, rgb(192, 240, 78), rgb(158, 183, 195));
+  background: linear-gradient(0.5turn, rgba(204, 19, 19, 0), rgba(255, 255, 255, 0.80)150px, rgba(255, 255, 255, 0.85)calc(100% - 150px), rgba(255, 255, 255, 0)), linear-gradient(to right, rgb(192, 240, 78), rgb(158, 183, 195));
 }
 .darkmode{
    filter:invert();  
