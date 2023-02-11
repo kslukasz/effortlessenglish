@@ -51,11 +51,11 @@ function Lern() {
             const copyUserData = JSON.parse(JSON.stringify(userData));
             copyUserData.words.push(randomData.dataToLern[randomData.wordIndex]);
             setUserData(copyUserData);
-            // if (checkedAnswer)
+            // if (checkedAnswer) 
         } else  {
             setUserData(addToRepeat(randomData, userData));
             nextWordRandoming();
-        }
+        } 
     }
 
     const result = () => {
