@@ -80,7 +80,6 @@ function compareData(userData, key) {
                 level:5,
                 darkmode: false,
             }
-
         }; return copyUserData;
     }
     else {
